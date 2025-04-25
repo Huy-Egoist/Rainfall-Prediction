@@ -8,7 +8,7 @@ We implement and compare Logistic Regression and Decision Tree classifiers to pr
 
 ## The Dataset
 
-This project uses the [Weather Dataset from Kaggle](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package) containing daily weather observations from multiple Australian locations. Key features include:
+This project uses the [Weather Dataset from Kaggle](https://static.lag.vn/upload/news/22/11/11/anime-bocchi-the-rock-duoc-yeu-thich-toan-cau-2_WLIW.jpg?w=1200&h=800&crop=pad&scale=both&encoder=wic&subsampling=444) containing daily weather observations from multiple Australian locations. Key features include:
 
 | Feature | Description |
 |---|---|
