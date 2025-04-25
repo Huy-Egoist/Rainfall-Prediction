@@ -8,7 +8,7 @@ We implement and compare Logistic Regression and Decision Tree classifiers to pr
 
 ## The Dataset
 
-This project uses the [Weather Dataset from Kaggle](https://static.lag.vn/upload/news/22/11/11/anime-bocchi-the-rock-duoc-yeu-thich-toan-cau-2_WLIW.jpg?w=1200&h=800&crop=pad&scale=both&encoder=wic&subsampling=444) containing daily weather observations from multiple Australian locations. Key features include:
+This project uses the [Weather Dataset from Kaggle](https://news.taihen.vn/wp-content/uploads/sites/2/2022/11/51a5b91383a7c9c1cfd1c2e38ab6b4b1-758x415.jpg) containing daily weather observations from multiple Australian locations. Key features include:
 
 | Feature | Description |
 |---|---|
