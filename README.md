@@ -4,11 +4,11 @@ Machine learning models like Logistic Regression and Decision Trees can effectiv
 
 We implement and compare Logistic Regression and Decision Tree classifiers to predict rain occurrence based on multi-year weather observation data.
 
-![weather-prediction-header](https://cdn.pixabay.com/photo/2016/05/24/16/48/mountains-1412683_1280.png)
+![weather-prediction-header](https://i.pinimg.com/736x/a4/8c/3e/a48c3eddd75956b8cdf9f6b465df605d.jpg)
 
 ## The Dataset
 
-This project uses the [Weather Dataset from Kaggle](https://news.taihen.vn/wp-content/uploads/sites/2/2022/11/51a5b91383a7c9c1cfd1c2e38ab6b4b1-758x415.jpg) containing daily weather observations from multiple Australian locations. Key features include:
+This project uses the [Weather Dataset from Kaggle](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package) containing daily weather observations from multiple Australian locations. Key features include:
 
 | Feature | Description |
 |---|---|
@@ -58,4 +58,4 @@ Key findings:
 ## How to Use
 1. Clone repository
 2. Install requirements
-3. Run analysis: `.ipynb`
+3. Run analysis: .ipynb
